@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Created-By: IntelliJ IDEA
-Built-By: Art
-Build-Jdk: 1.8.0_121
-Class-Path: ejbs-1.0-SNAPSHOT.jar servlet-1.0-SNAPSHOT.war primary-sourc
- e-1.0-SNAPSHOT.jar logging-1.0-SNAPSHOT.jar
-
