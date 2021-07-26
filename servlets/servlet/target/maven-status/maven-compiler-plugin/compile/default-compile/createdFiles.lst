@@ -1,0 +1,6 @@
+org\example\MyEjbBean.class
+org\example\MyEjbInterface.class
+org\example\MyService2.class
+org\example\ServletConfig.class
+org\example\MySpringBean.class
+org\example\MyWebService.class
